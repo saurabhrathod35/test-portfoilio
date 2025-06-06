@@ -363,10 +363,12 @@ pre.w-code-block code {
   font-size: 12px !important;
   line-height: 14px !important;
   text-decoration: none !important;
-  display: inline-block !important;
+  display: none !important;
   position: fixed !important;
   inset: auto 12px 12px auto !important;
   transform: none !important;
+  display: none !important;
+
 }
 
 .w-webflow-badge > img {
@@ -374,7 +376,7 @@ pre.w-code-block code {
   visibility: unset !important;
   opacity: 1 !important;
   vertical-align: middle !important;
-  display: inline-block !important;
+  display: none !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
