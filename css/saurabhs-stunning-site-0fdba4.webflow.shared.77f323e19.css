@@ -342,6 +342,7 @@ pre.w-code-block code {
   word-spacing: unset;
   word-wrap: unset;
   transition: unset;
+  display: none;
 }
 
 .w-webflow-badge {
